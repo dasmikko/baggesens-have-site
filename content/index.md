@@ -13,4 +13,4 @@ Baggesens Have er opkaldt efter den danske digter Jens Baggesen, som blev født 
 Holbæk i 1764. Området ligger centralt i Holbæk og er kendt for sin hyggelige
 atmosfære, grønne områder og smukke beplantninger.
 
-<img src="/home.jpg" >
+<img src="home.jpg" >

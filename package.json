@@ -8,7 +8,8 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "deploy": "NUXT_APP_BASE_URL=/dasmikko/3d-print-website/ npx nuxt build --preset github_pages"
+    "deploy": "npx gh-pages --dotfiles -d .output/public",
+    "prepare": "NUXT_APP_BASE_URL=/baggesens-have-site/ npx nuxt build --preset github_pages"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
