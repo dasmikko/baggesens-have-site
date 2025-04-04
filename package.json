@@ -1,0 +1,37 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "deploy": "NUXT_APP_BASE_URL=/dasmikko/3d-print-website/ npx nuxt build --preset github_pages"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/sitemap": "^5.3.2",
+    "@primevue/nuxt-module": "^4.0.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.57.0",
+    "eslint-plugin-vue": "^9.22.0",
+    "nuxt": "3.16.2",
+    "nuxt-gtag": "1.1.1",
+    "postcss": "^8.4.31",
+    "sass": "^1.69.3",
+    "tailwindcss": "^3.3.3",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "^0.8.0",
+    "@nuxt/content": "^2.8.5",
+    "@primevue/themes": "^4.0.0",
+    "photoswipe": "^5.4.2",
+    "primevue": "^4.0.0",
+    "vue-cookie-accept-decline": "^6.1.0",
+    "vue-tabler-icons": "^2.21.0"
+  }
+}
