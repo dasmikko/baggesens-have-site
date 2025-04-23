@@ -51,8 +51,16 @@ const toggleMenu = () => {
 
 const links = [
   {
+    name: 'Vedtægter',
+    path: '/vedtaegter'
+  },
+  {
     name: 'Fælleshus',
     path: '/faelleshus'
+  },
+  {
+    name: 'Nyhedsbrev',
+    path: '/nyhedsbrev'
   },
   {
     name: 'Bestyrelse',

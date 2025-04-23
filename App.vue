@@ -61,7 +61,7 @@ img {
 }
 
 a {
-  @apply underline text-amber-400;
+  @apply underline text-green-800;
 }
 
 p, pre, ul, ol {

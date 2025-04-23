@@ -14,20 +14,42 @@ Priserne er gældende fra 1. januar 2024.
 
 ## Priser for beboere
 
-|                                                 |              |
-|-------------------------------------------------|--------------|
-| 1 – dags arrangementer (start + slut samme dag) | 600,00 kr.   |
-| Et døgn                                         | 800,00 kr.   |
-| To døgn                                         | 1.000,00 kr. |
+<table class="w-full">
+    <tbody>
+        <tr>
+            <td>1 – dags arrangementer (start + slut samme dag)</td>
+            <td>600,00 kr.</td>
+        </tr>
+        <tr>
+            <td>Et døgn</td>
+            <td>800,00 kr.</td>
+        </tr>
+        <tr>
+            <td>To døgn</td>
+            <td>1.000,00 kr.</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Priser for udefra kommende
 
-|                                                 |              |
-|-------------------------------------------------|--------------|
-| 1 – dags arrangementer (start + slut samme dag) | 1.600,00 kr. |
-| Et døgn                                         | 1.800,00 kr. |
-| To døgn                                         | 2.000,00 kr. |
-
+<table class="w-full">
+    <tbody>
+        <tr>
+            <td>1 – dags arrangementer (start + slut samme dag)</td>
+            <td>1.600,00 kr.</td>
+        </tr>
+        <tr>
+            <td>Et døgn</td>
+            <td>1.800,00 kr.</td>
+        </tr>
+        <tr>
+            <td>To døgn</td>
+            <td>2.000,00 kr.</td>
+        </tr>
+    </tbody>
+</table>
 
 Andre arrangementer aftales med fælleshusbestyrer.
 
@@ -40,6 +62,19 @@ På lejedatoen afregnes kontant og nøglen udleveres af fælleshusbestyrer.
 Rengøring:  
 Rengøring af fælleshuset afregnes **400,00 kr.** kontant/mobil pay når nøglen udleveres. Dette kan ikke fravælges.
 
-Fælleshusbestyrer:  
-Hanne Pedersen 			tlf. 22 64 54 12 (aften)
-hbp@holbaek4300.dk
+## Fælleshusbestyrer
+
+<table class="">
+    <tbody>
+        <tr>
+            <td class="w-64">Hanne Pedersen</td>
+            <td>
+                <a href="tel:22645412">tlf. 22 64 54 12 (aften)</a>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="mailto:hbp@holbaek4300.dk">hbp@holbaek4300.dk</a></td>
+        </tr>
+    </tbody>
+</table>
