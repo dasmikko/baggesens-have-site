@@ -106,9 +106,26 @@ Med henblik på at fastholde et ensartet udtryk og harmoni i foreningen og i ove
 ### Gule andelsboliger
 Udvendig vedligeholdelse ligger til en vis grad i andelsboligforeningens regi, derfor skal henvendelser rettes til dennes bestyrelse.
 
-Vinduer/døre		Ren hvid		       Ral 9010
-Gavle og udhæng		Grøn umbra	       Gori 720 dækkende
-Udhuse og hegn mv.		Grøn umbra	       Gori 720 dækkende
+
+<table class="table-fixed mb-4 w-2/3">
+    <tbody>
+        <tr>
+            <td class="font-bold">Vinduer/døre</td>
+            <td>Ren hvid</td>
+            <td>Ral 9010</td>
+        </tr>
+        <tr>
+            <td class="font-bold">Gavle- og udhæng</td>
+            <td>Grøn umbra</td>
+            <td>Gori 720 dækkende </td>
+        </tr>
+        <tr>
+            <td class="font-bold">Udhuse og hegn mv.</td>
+            <td>Grøn umbra</td>
+            <td>Gori 720 dækkende</td>
+        </tr>
+    </tbody>
+</table>
 
 I forbindelse med vedligeholdelse/udskiftning af vinduer og døre skal det nuværende arkitektoniske udtryk fastholdes herunder skal ovenstående farvekoder naturligvis respekteres. I tvivlstilfælde kontaktes bestyrelsen.
 

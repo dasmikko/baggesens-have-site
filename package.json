@@ -9,7 +9,7 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "deploy": "npx gh-pages --dotfiles -d .output/public",
-    "prepare": "NUXT_APP_BASE_URL=/baggesens-have-site/ npx nuxt build --preset github_pages"
+    "prepare": "npx nuxt build --preset github_pages"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",

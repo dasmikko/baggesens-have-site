@@ -28,7 +28,7 @@ export default defineNuxtConfig({
     '/': { prerender: true }
   },
   site: {
-    url: 'https://holbaek3dprint.dk',
+    url: 'https://baggesenshave.dk',
   },
 
   compatibilityDate: '2024-07-04',
