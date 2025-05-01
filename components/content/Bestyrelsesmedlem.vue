@@ -5,7 +5,6 @@
         <td class="align-top">{{ name }}</td>
         <td class="align-top">{{ house }}</td>
         <td class="align-top">
-          <a v-if="phone" :href="`tel:${phone}`">tlf. {{ phone }}</a>
           <a v-if="email" :href="`mailto:${email}`">{{ email }}</a>
         </td>
       </tr>
