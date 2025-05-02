@@ -17,7 +17,7 @@ description: 'Bestyrelsen i Baggesens Have'
 ::Bestyrelsesmedlem{name="Michael Hansen" house="BH 8" phone="29 93 34 73" email="michael.max.hansen@gmail.com"}
 ::
 
-## Kasser
+## Kasserer
 
 ::Bestyrelsesmedlem{name="Linda Vincentz" house="BH 23" email="Linda.vincentz@hotmail.com"}
 ::
