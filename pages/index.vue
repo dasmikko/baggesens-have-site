@@ -2,6 +2,12 @@
 import PhotoSwipeLightbox from 'photoswipe/lightbox'
 import {onMounted} from 'vue';
 
+const route = useRoute()
+const { data: page } = await useAsyncData('index', () => {
+  return queryCollection('content').path(route.path).first()
+})
+
+
 
 const lightbox = new PhotoSwipeLightbox({
   // may select multiple "galleries"
@@ -23,6 +29,6 @@ onMounted(() => {
 
 <template>
   <div class="content container mx-auto px-8 lg:px-64 py-8 min-h-[calc(100vh-24rem)]">
-    <ContentDoc />
+    <ContentRenderer v-if="page" :value="page" />
   </div>
 </template>
