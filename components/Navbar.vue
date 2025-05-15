@@ -59,6 +59,10 @@ const links = [
     path: '/faelleshus'
   },
   {
+    name: 'Referater',
+    path: '/referat'
+  },
+  {
     name: 'Nyhedsbrev',
     path: '/nyhedsbrev'
   },
