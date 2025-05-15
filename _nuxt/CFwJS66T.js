@@ -1,1 +1,0 @@
-import{c as o,o as r,r as s}from"./DlNAT1Bi.js";const a=["id"],d={__name:"ProseH5",props:{id:{type:String}},setup(e){return(t,n)=>(r(),o("h5",{id:e.id},[s(t.$slots,"default")],8,a))}};export{d as default};
