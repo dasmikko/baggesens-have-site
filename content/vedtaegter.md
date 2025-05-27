@@ -5,6 +5,8 @@ description: 'Vedtægter for Baggesens Have'
 ---
 # Vedtægter for Baggesens Have
 
+[Du kan hente de fulde vedtægter her.](https://files.baggesenshave.dk/Vedt%C3%A6gter.pdf)
+
 Vi er alle medlemmer af Grundejerforeningen hvortil der betales kr. 1.200 kr. i kontingent to gange årligt. Kontingentet dækker vedligeholdelsen af de grønne arealer, fælleshus, veje, snerydning af fælles veje og visse stier, parkeringspladser, gadebelysning m.m.
 
 Foreningen holder generalforsamling i februar.
