@@ -38,6 +38,47 @@ Derudover må vi henvise til de offentlige lader i området.
 
 I tvivlstilfælde omkring etablering af el-lader kontaktes bestyrelsen.
 
+Holbæk kommune oplyser følgende omkring private ladestandere:
+
+Baggensens Have er en privat fællesvej i byzone og derfor er det privatvejsloven, der regulerer, hvad man må på vejarealet. Se gerne Privatvejsloven § 57 & 66 og Færdselsloven §92.
+
+Selve ladestanderen, og ledningen ud til den (hvis den skal ligge under terræn), kræver en rådighedstilladelse og en gravetilladelse. Hvis I ønsker at reservere en parkeringsplads, enten til biler under opladning, eller til en enkelt ejendoms eksklusive brug, så kræver dette også tilladelse. Eksempler på løsninger, du kan ansøge om tilladelse til:
+- Ladestanderen opsættes på privat grund, hvor kablet trækkes fra ladestanderen ud til en bil, der er parkeret på vejen. I dette tilfælde skal du søge om tilladelse til at etablere en kabelskinne, så kablet ikke ligger frit på fortovet under opladning.
+- Ladestanderen opstilles bag fortovet mod facade/vejskel (dog stadig på den private fællesvej). I dette tilfælde skal du søge om tilladelse til etablering af både kabelskinne og ladestander.
+- Ladestanderen opstilles ude ved vejen/mod kørebanen enten på fortovet eller vejen. I dette tilfælde skal du søge om tilladelse til at opstille ladestanderen, og eventuelle ombygninger af vejarealet.
+
+Vi anbefaler, at I på forhånd får accept fra de grundejere, der bliver berørt af de planlagte vejændringer. Det er ikke et krav, men en god ide, da der så ikke er risiko for tvister senere hen. Vi anbefaler derfor, at eventuel dialog eller accept medsendes ansøgningen.
+
+Det er også en god ide, at I forholder jer i ansøgningen til drift og vedligeholdelse af installationen. I en eventuel tilladelse, vil vejmyndigheden desuden stille vilkår om mulighed for opsigelse samt retablering af arealet.
+
+Vejmyndighedens tilladelse er kun en offentligretlig tilladelse. Muligheden for at udnytte den skal afklares privatretligt. Det kræver begge tilladelser, før arbejdet må igangsættes.
+
+Vejen, er ejet af Grundejerforningen. Vi vil derfor opfordre til dialog med dem forud for jeres ansøgning til os.
+
+Ønsker du at opsætte en ladestander på din egen grund og trække et kabel ud over fortov til en parkeringsplads, skal du søge tilladelse til at etablere en kabelskinne i fortovet.
+
+Kablet må ikke ligge frit på fortovet, da der risiko for at falde over ledningen. Samtidigt er kabler på fortovet til hinder for fx barnevognsbrugere og gangbesværedes færdsel på fortovet, og du risikerer, at dit kabel bliver slidt unødigt, når det ligger frit. Vær opmærksom på følgende:
+- Ledningen fra ladestanderen må ikke ligge frit hen over fortov og andre gangarealer
+- Ledningen skal under opladning ligge i en oplukkelig skinne med skridsikker overflade på tværs af gangarealet/fortovet
+- Når ledningen ikke er tilkoblet en bil, skal den fjernes fra vejarealet/fortovet
+- Kabelskinnen skal etableres i niveau med fortovet
+- Hvis kabelskinnen ikke længere skal bruges, skal den fjernes og de oprindelige forhold reetableres.
+- Så længe kabelskinnen er på adressen, påhviler de relaterede forpligtigelser den tilstødende grundejer.
+- Du skal ansøge om tilladelse til at reservere en eller flere parkeringspladser til ladestanderen samt sende skilteplan til godkendelse hos os.
+
+Ønsker du at opstille en ladestander på selve fortovet fx foran din egen grund, skal du være opmærksom på, at det skal kombineres med kabelskinne.
+Hvis ladestanderen skal stå på fortovet, skal politiet desuden godkende placeringen. Vi indhenter politiets samtykke som en del af behandlingen af din ansøgning.
+- Der skal i udgangspunktet være ca. 1,5 meter frit gangareal på fortovet, så kørestole og barnevogne kan passere ladestanderen
+- Det anbefales, at ladestanderen placeres ca. 30 cm fra kantstenen, for at minimere risikoen for at ladestanderen bliver påkørt
+- Når ladestanderen ikke længere skal bruges, skal ladestanderen fjernes og de oprindelige forhold reetableres
+  Så længe kabelskinnen er på adressen, påhviler de relaterede forpligtigelser den tilstødende grundejer.
+
+Vær opmærksom på, at vi kun kan behandle ansøgningen, hvis den opfylder alle de krav, der er beskrevet. Din ansøgning skal både indeholde en beskrivelse af det ansøgte og tegningsmateriale.
+
+Det er gratis at få behandlet din ansøgning, men du afholder selv alle omkostninger til udarbejdelse af ansøgningsmaterialet. Herudover skal ansøgeren selv betale alle udgifter til projektet: Det kan fx være køb af ladestander og/eller kabelskinne, opsætning og vedligeholdelse af disse, fysiske ændringer af vejarealet, evt. privat aftale med en ladeoperatør til at drive ladestanderen samt eventuel nedtagelse af ladestanderen/fjernelse af kabelskinnen og dertilhørende reetablering af de oprindelige forhold på vejen.
+
+Ansøgning fremsendes til vejogtrafik@holb.dk.
+
 
 ## Trailere
 Private Trailere parkeres bag hækken ved Fælleshuset/legepladsen.

@@ -73,7 +73,11 @@ pre {
 }
 
 ul {
-  @apply list-disc list-inside;
+  @apply list-disc list-outside ml-5;
+}
+
+ul li {
+  @apply mb-1;
 }
 
 
