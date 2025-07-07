@@ -101,6 +101,7 @@ Betyder det så, at du skal haste hjem, hvis du er på arbejde, når der falder 
 Med henblik på at fastholde et ensartet udtryk og harmoni i foreningen og i overensstemmelse med vores vedtægt og lokalplanen skal træværk vedligeholdes med følgende farvekombinationer.
 
 
+
 ### Røde ejerboliger
 <table class="table-fixed w-2/3">
     <tbody>
@@ -179,4 +180,17 @@ Hegn vedligeholdelse med det nuværende arkitektoniske udtryk.
 
 Hvis der står beplantning (træer, buske ovs) i eller tæt ved skel, kan det kræve vedligeholdelse. Generelt skal grene og rødder der vokser ind på naboens grund beskæres, hvis naboen ønsker det. Du skal dog først give naboen mulighed for selv at beskærer de grene, der rækker ind på hans/hendes grund.
 
-Opstår der tvister kan bestyrelsen eller et hegnssyn inddrages i sagen. Det anbefales altid at tage en dialog med naboen og forsøge at finde en fælles løsning før i involvere bestyrelsen eller hegnssyn. De fleste problemer kan ofte løses med gensidig forståelse og kompromis.  
+Opstår der tvister kan bestyrelsen eller et hegnssyn inddrages i sagen. Det anbefales altid at tage en dialog med naboen og forsøge at finde en fælles løsning før i involvere bestyrelsen eller hegnssyn. De fleste problemer kan ofte løses med gensidig forståelse og kompromis.
+
+### Service af gasfyr
+Ejerboligerne i Baggesens Have har mulighed for at at gøre brug af den fællesaftale som Andelboligforeningen har indgået omkring service på vores gasfyr. Aftalen er med:
+
+G.J. Gas- og Olie teknik Aps, Tåstruphøj 50, 4300 Holbæk, tlf:.: 59 43 10 39. Kontaktperson Jesper Lynæs.
+
+Pris pr. service af gasfyr er kr. 1.100,- excl. materialer. Normalpris kr. 1.690,-.
+
+Frit tilkald af servicetekniker i vinterhalvåret kr. 800,- for en 2 årige periode.
+
+Priserne er inkl. moms og er gældende fra 2025.
+
+Tilbuddet forudsætter, at de kan tage os samlet. Vi skal derfor lave en liste med kontaktoplysninger på de boliger der gerne vil være med. Ønsker man at være med i ordningen sender man en mail til GRFBH@PROTONMAIL.COM med kontaktoplysninger i form af:  Navn, hus nummer og telefonnummer og evt. e-mail. Så vil G.J. Gas og Olie Teknik kontakte dig og tilbyde service når de er i området i forvejen til en fordelagtig pris.
