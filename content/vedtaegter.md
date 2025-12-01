@@ -179,4 +179,14 @@ Hegn vedligeholdelse med det nuværende arkitektoniske udtryk.
 
 Hvis der står beplantning (træer, buske ovs) i eller tæt ved skel, kan det kræve vedligeholdelse. Generelt skal grene og rødder der vokser ind på naboens grund beskæres, hvis naboen ønsker det. Du skal dog først give naboen mulighed for selv at beskærer de grene, der rækker ind på hans/hendes grund.
 
-Opstår der tvister kan bestyrelsen eller et hegnssyn inddrages i sagen. Det anbefales altid at tage en dialog med naboen og forsøge at finde en fælles løsning før i involvere bestyrelsen eller hegnssyn. De fleste problemer kan ofte løses med gensidig forståelse og kompromis.  
+Opstår der tvister kan bestyrelsen eller et hegnssyn inddrages i sagen. Det anbefales altid at tage en dialog med naboen og forsøge at finde en fælles løsning før i involvere bestyrelsen eller hegnssyn. De fleste problemer kan ofte løses med gensidig forståelse og kompromis.
+
+### Håndtering af nabotvister og private forhold
+
+Grundejerforeningen har til formål at varetage fælles interesser og drift af fællesarealer og fælleshus samt at sikre, at foreningens vedtægter og generalforsamlingens beslutninger overholdes.
+
+Sager, der vedrører forhold mellem to eller flere private grundejere — herunder adgang til privat ejendom, hegn, træer, støj, parkering på privat grund, eller lignende — betragtes som private anliggender, som foreningen ikke kan eller skal blande sig i.
+
+I tilfælde af uenigheder mellem naboer opfordres parterne til at søge dialog og gensidig forståelse. Hvis der opstår forhold, der kan være i strid med lovgivningen (f.eks. uretmæssig adgang til privat ejendom eller chikane), bør sagen anmeldes til politiet.
+
+Bestyrelsen kan vælge at tage en mæglende rolle, hvis begge parter ønsker det, men har ingen myndighed til at træffe afgørelser i private stridigheder.
