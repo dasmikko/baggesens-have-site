@@ -195,7 +195,7 @@ Priserne er inkl. moms og er gældende fra 2025.
 
 Tilbuddet forudsætter, at de kan tage os samlet. Vi skal derfor lave en liste med kontaktoplysninger på de boliger der gerne vil være med. Ønsker man at være med i ordningen sender man en mail til GRFBH@PROTONMAIL.COM med kontaktoplysninger i form af:  Navn, hus nummer og telefonnummer og evt. e-mail. Så vil G.J. Gas og Olie Teknik kontakte dig og tilbyde service når de er i området i forvejen til en fordelagtig pris.
 
-### Håndtering af nabotvister og private forhold
+## Håndtering af nabotvister og private forhold
 
 Grundejerforeningen har til formål at varetage fælles interesser og drift af fællesarealer og fælleshus samt at sikre, at foreningens vedtægter og generalforsamlingens beslutninger overholdes.
 
