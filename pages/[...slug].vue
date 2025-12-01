@@ -13,7 +13,6 @@ const { data: page } = await useAsyncData(route.path, () => {
   return queryCollection('content').path(route.path).first()
 })
 
-
 const lightbox = new PhotoSwipeLightbox({
   // may select multiple "galleries"
   gallery: '.content',
@@ -24,6 +23,19 @@ const lightbox = new PhotoSwipeLightbox({
   // setup PhotoSwipe Core dynamic import
   pswpModule: () => import('photoswipe')
 });
+
+// Set page title and meta description from front-matter
+watch(() => page.value, (newPage) => {
+  if (newPage) {
+    useHead({
+      title: newPage.title,
+      meta: [
+        { name: 'description', content: newPage.description }
+      ]
+    })
+  }
+}, { immediate: true })
+
 
 
 onMounted(() => {
