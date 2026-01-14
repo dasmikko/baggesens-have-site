@@ -3,6 +3,11 @@ loc: /referat
 title: 'Referater for Baggesens Have'
 description: 'Referater for Baggesens Have'
 ---
+
+# Dagsorden
+
+- [14.02.2026](https://files.baggesenshave.dk/Dagsorden%2024-02-26.pdf)
+
 # Referater for Baggesens Have
 
 Her er en oversigt over referater for Baggesens Have
