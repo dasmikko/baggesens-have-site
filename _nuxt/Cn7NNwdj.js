@@ -1,0 +1,1 @@
+import{c as o,o as r,Q as s}from"./B1dwf4d1.js";const a=["id"],d={__name:"ProseH2",props:{id:{type:String}},setup(e){return(t,n)=>(r(),o("h2",{id:e.id},[s(t.$slots,"default")],8,a))}};export{d as default};
