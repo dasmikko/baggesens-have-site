@@ -34,11 +34,12 @@ description: 'Bestyrelsen i Baggesens Have'
 
 ## Sekretær
 
+::Bestyrelsesmedlem{name="Susanne Hansen" house="BH 87" email="susannehansen012@gmail.com"}
+::
+
 ::Bestyrelsesmedlem{name="Torben Bergstrøm" house="BH 19" phone="24 26 78 05" email="t.bergstrm@gmail.com"}
 ::
 
-::Bestyrelsesmedlem{name="Henrik Dahl Thomsen" house="BH 56" phone="23 66 24 84" email="Henrikdahlthomsen@hotmail.com"}
-::
 
 ## Suppleanter
 
