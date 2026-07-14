@@ -12,6 +12,16 @@ Fælleshuset kan kun forudbestilles 12 mdr. frem.
 Prisliste for udlejning af fælleshuset Baggesens Have.
 Priserne er gældende fra 1. januar 2024.
 
+## Brug af fælleshuset til sociale arrangementer for beboere i Baggesens Have
+
+Vi vil gerne opfordre alle beboere i grundejerforeningen til at benytte vores fælleshus til sociale aktiviteter og arrangementer, der bidrager til fællesskabet.
+
+Fælleshuset kan bruges til arrangementer, hvor alle beboere har mulighed for at deltage, eksempelvis fællesspisning, spilleaftener, foredrag, hobbyaktiviteter eller andre sociale initiativer.
+
+For at sikre, at huset er tilgængeligt og at aktiviteterne koordineres bedst muligt, skal brugen aftales med Hanne, som står for administrationen af fælleshuset. Som udgangspunkt er onsdage generelt ledige. Har du en idé til et arrangement, er du meget velkommen til at tage kontakt til Hanne for at aftale nærmere.
+
+Vi ser frem til mange gode aktiviteter og hyggelige stunder i fælleshuset.
+
 ## Priser for beboere
 
 <table class="w-full">
