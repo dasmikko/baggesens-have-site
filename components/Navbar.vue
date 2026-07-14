@@ -59,7 +59,7 @@ const links = [
     path: '/faelleshus'
   },
   {
-    name: 'Referater',
+    name: 'Dagsorden & Referater',
     path: '/referat'
   },
   {
