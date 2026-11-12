@@ -1,7 +1,4 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import Aura from '@primevue/themes/aura';
-
-
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['/assets/css/main.css'],
@@ -18,8 +15,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@formkit/auto-animate/nuxt',
-    "@nuxtjs/sitemap",
-    '@primevue/nuxt-module'
+    "@nuxtjs/sitemap"
   ],
 
   content: {
@@ -31,12 +27,5 @@ export default defineNuxtConfig({
     url: 'https://baggesenshave.dk',
   },
 
-  compatibilityDate: '2024-07-04',
-  primevue: {
-    options: {
-      theme: {
-        preset: Aura
-      }
-    }
-  }
+  compatibilityDate: '2024-07-04'
 })

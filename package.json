@@ -13,7 +13,6 @@
   },
   "devDependencies": {
     "@nuxtjs/sitemap": "7.6.2",
-    "@primevue/nuxt-module": "4.5.5",
     "autoprefixer": "10.6.2",
     "nuxt": "4.6.4",
     "nuxt-gtag": "4.1.0",
@@ -26,11 +25,8 @@
   "dependencies": {
     "@formkit/auto-animate": "0.9.0",
     "@nuxt/content": "3.16.2",
-    "@primevue/forms": "4.5.5",
-    "@primevue/themes": "4.5.4",
     "better-sqlite3": "^12.11.1",
     "photoswipe": "5.4.4",
-    "primevue": "4.5.5",
     "vue-cookie-accept-decline": "6.1.0",
     "vue-tabler-icons": "2.21.0"
   }
