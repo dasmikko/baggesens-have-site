@@ -4,6 +4,10 @@ title: 'Referater for Baggesens Have'
 description: 'Referater for Baggesens Have'
 ---
 
+# Generalforsamling
+
+- [Indkaldelse 10.12.2026](https://files.baggesenshave.dk/GF%2010-12-2026.pdf)
+
 # Dagsorden
 
 - [14.02.2026](https://files.baggesenshave.dk/Dagsorden%2024-02-26.pdf)
