@@ -1,0 +1,1 @@
+import{B as e,I as t,m as n}from"./BMzOHTes.js";var r=[`id`],i={__name:`ProseH3`,props:{id:{type:String}},setup(i){return(a,o)=>(t(),n(`h3`,{id:i.id},[e(a.$slots,`default`)],8,r))}};export{i as default};

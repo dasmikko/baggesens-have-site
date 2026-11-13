@@ -1,0 +1,1 @@
+import{B as e,I as t,m as n}from"./BMzOHTes.js";import{t as r}from"#entry";var i={};function a(r,i){return t(),n(`th`,null,[e(r.$slots,`default`)])}var o=Object.assign(r(i,[[`render`,a]]),{__name:`ProseTh`});export{o as default};
